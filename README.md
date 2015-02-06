@@ -2,7 +2,10 @@
 Processes a DisplayLink USB Dump and renders the video
 
 ## Requirements
-This process depends on OpenCV2 to work.
+This process depends on: 
+*[OpenCV2](http://opencv.org/ "OpenCV Homepage")
+*[NumPy](http://www.numpy.org/ "NumPy Homepage")
+*[dpkt](https://pypi.python.org/pypi/dpkt "dpkt's PyPi page")
 
 ## Related Work
 This project was only possible to the hard work made by [Florian Echtler](https://github.com/floe "Florian Echtler's GitHub"), that you can follow in the following links:
